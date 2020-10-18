@@ -880,6 +880,7 @@ img {
 }
 .checkbox-input {
   margin-top: 20px;
+  appearance: none;
 }
 .checkbox-input:checked + .checkbox-icon {
   background-color: var(--accent-color);
